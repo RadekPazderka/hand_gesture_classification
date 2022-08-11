@@ -2,6 +2,8 @@
 
 Control game by camera and gesture classification using AI.
 
+![demo image](images/demo.png)
+
 
 ### Installation
 
